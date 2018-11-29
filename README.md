@@ -35,12 +35,13 @@ Jigsaw(前身为Google ideas）在kaggle平台上举办了一场[文本分类比
 
 ### 预备知识
 
-1. 了解词向量模型，例如[Word2vec],GloVe,fastText
+1. 了解词向量模型，例如[Word2vec],[GloVe],fastText
 2. 了解一维卷积神经网络，递归神经网络
 3. 传统类模型，例如词袋模型，N-gram，tfidf
 
 
 [Word2vec]:https://zhuanlan.zhihu.com/p/27234078
+[GloVe]:https://www.cnblogs.com/iloveai/p/cs224d-lecture3-note.html
    
    
 ### 建议
