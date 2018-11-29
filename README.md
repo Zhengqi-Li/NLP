@@ -60,7 +60,9 @@ Jigsaw(前身为Google ideas）在kaggle平台上举办了一场[文本分类比
 模型融合部分，可以尝试最简单的加权平均方法，也可以直接使用更加复杂的Stacking，相关模型融合资料可以参考[这里](https://mlwave.com/kaggle-ensembling-guide/)
 
 ### 要求
-* PDF 报告文件（注意这不应该是notebook的导出，请按照[模板](https://github.com/nd009/capstone/blob/master/capstone_report_template.md)填写）
+* [PDF 报告文件]（注意这不应该是notebook的导出，请按照[模板](https://github.com/nd009/capstone/blob/master/capstone_report_template.md)填写）
+
+[PDF 报告文件]:https://github.com/Zhengqi-Li/NLP/blob/master/capstone_report_template.md
 * 项目相关代码
 
 * 包含使用的库，机器硬件，机器操作系统，训练时间等数据的 README 文档
