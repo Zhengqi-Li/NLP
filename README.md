@@ -41,7 +41,7 @@ Jigsaw(前身为Google ideas）在kaggle平台上举办了一场[文本分类比
 
 
 [Word2vec]:https://zhuanlan.zhihu.com/p/27234078
-[GloVe]:https://www.cnblogs.com/iloveai/p/cs224d-lecture3-note.html
+[GloVe]:https://www.leiphone.com/news/201801/QsXLJ2uM7cwgijMz.html
    
    
 ### 建议
