@@ -51,10 +51,15 @@ Jigsaw(前身为Google ideas）在kaggle平台上举办了一场[文本分类比
 ### 建议
 
 在撰写报告的时候，可以侧重于理论知识方面的论述，包括但不限于：
-1. 文本的两种基本表征方式（词向量模型，词袋模型）
-2. 深度神经网络中不同优化器之间的区别（SGD,Adam,RMSprop等）
-3. 深度类模型的综述、TextCNN,LSTM等
+1. 文本的两种基本表征方式（[词向量模型]，词袋模型）
+2. 深度神经网络中不同优化器之间的区别（[SGD,Adam,RMSprop]等）
+3. 深度类模型的综述、[TextCNN],[LSTM]等
 4. 基于词袋模型+tfidf+lsvc的传统模型介绍
+
+[词向量模型]:http://licstar.net/archives/328#s0
+[SGD,Adam,RMSprop]:https://zhuanlan.zhihu.com/p/32626442
+[TextCNN]:https://hunto.github.io/nlp/2018/03/29/TextCNN%E6%96%87%E6%9C%AC%E5%88%86%E7%B1%BB%E8%AF%A6%E8%A7%A3.html
+[LSTM]:https://www.jianshu.com/p/9dc9f41f0b29
 
 在进行算法试验的过程中，一定要注意记录你的网络调参过程，该题对于深度类网络的调参是有一定要求的，另外，该题需要搭建GPU环境。
 
