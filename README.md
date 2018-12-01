@@ -35,11 +35,11 @@ Jigsaw(前身为Google ideas）在kaggle平台上举办了一场[文本分类比
 
 ### 预备知识
 
-1. 了解词向量模型，例如[Word2vec]，[GloVe]，[fastText]
+1. 了解[词向量模型]，例如[Word2vec]，[GloVe]，[fastText]
 2. 了解一维卷积神经网络，[递归神经网络]
 3. 传统类模型，例如[词袋模型]，[N-gram]，[tfidf]
 
-
+[词向量模型]:http://licstar.net/archives/328#s0
 [Word2vec]:https://zhuanlan.zhihu.com/p/27234078
 [GloVe]:https://www.leiphone.com/news/201801/QsXLJ2uM7cwgijMz.html
 [fastText]:https://cloud.tencent.com/developer/article/1080923
@@ -51,12 +51,12 @@ Jigsaw(前身为Google ideas）在kaggle平台上举办了一场[文本分类比
 ### 建议
 
 在撰写报告的时候，可以侧重于理论知识方面的论述，包括但不限于：
-1. 文本的两种基本表征方式（[词向量模型]，词袋模型）
+1. 文本的两种基本表征方式（词向量模型，词袋模型）
 2. 深度神经网络中不同优化器之间的区别（[SGD,Adam,RMSprop]等）
 3. 深度类模型的综述、[TextCNN],[LSTM]等
 4. 基于词袋模型+tfidf+lsvc的传统模型介绍
 
-[词向量模型]:http://licstar.net/archives/328#s0
+
 [SGD,Adam,RMSprop]:https://zhuanlan.zhihu.com/p/32626442
 [TextCNN]:https://hunto.github.io/nlp/2018/03/29/TextCNN%E6%96%87%E6%9C%AC%E5%88%86%E7%B1%BB%E8%AF%A6%E8%A7%A3.html
 [LSTM]:https://www.jianshu.com/p/9dc9f41f0b29
